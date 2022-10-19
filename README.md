@@ -11,8 +11,7 @@
 <hr>
 
 <h3 align="center">A passionate open source contributer</h3>
-<img align="right" alt="coding" width="400" src="![image](https://user-images.githubusercontent.com/55174501/196764026-319d06c4-6d66-4256-97a5-eff46a53a3ac.png)
-">
+<img align="right" alt="coding" width="400" src="./images/coding.gif">
 
 - 🔭 I’m currently working on [Inkscape](https://gitlab.com/inkscape/inkscape)
 
