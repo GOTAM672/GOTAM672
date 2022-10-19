@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![banner.png](./images/github-banner.png)
+
 <!--
 **GOTAM672/GOTAM672** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
