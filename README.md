@@ -13,7 +13,6 @@
 <h3 align="center">A passionate open source contributer</h3>
 <img align="right" alt="coding" width="400" src="./images/coding.gif">
 
-- 🔭 I’m currently working on [Inkscape](https://gitlab.com/inkscape/inkscape)
 
 - 🌱 I’m currently learning **Rust Programming Language**
 
