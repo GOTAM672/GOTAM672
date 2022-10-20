@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **gautamy672@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me</h3>
 <hr>
 <span align="center">
   
@@ -36,7 +36,8 @@
 
 <hr>
 
-## ⚡ Technologies & Tools
+<h3 align="left">⚡ Technologies & Tools</h3>
+
 <hr>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
@@ -64,7 +65,7 @@
 </p>
 <hr>
 
-## My Open-source Contribution
+<h3 align="left">My Open-source Contribution</h3>
 
 <hr>
 
@@ -81,14 +82,15 @@ Adding trailing ellipsis to Empty trash menu](https://gitlab.gnome.org/GNOME/nau
 
 <hr>
 
-## Other Links
+<h3 align="left">Other Links</h3>
+
 
 - My Git Lab Profile [Gau672tam](https://gitlab.com/Gau672tam).
 - My GNOME Git Lab Profile [gautham_x](https://gitlab.gnome.org/gautham_x).
 
 
 
-## Github Stats
+<h3 align="left">Github Stats</h3>
 
 <hr>
 
