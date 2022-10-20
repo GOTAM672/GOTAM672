@@ -90,6 +90,8 @@ Adding trailing ellipsis to Empty trash menu](https://gitlab.gnome.org/GNOME/nau
 
 ## Github Stats
 
+<hr>
+
 ![](https://activity-graph.herokuapp.com/graph?username=GOTAM672&theme=react-dark&hide_border=true&area=true)
 
 
