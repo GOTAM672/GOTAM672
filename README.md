@@ -21,13 +21,23 @@
 - 📫 How to reach me **gautamy672@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/gautamy05676484" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautamy05676484" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/gotam-gorabh-470848196" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gotam-gorabh-470848196" height="30" width="40" /></a>
-</p>
+<hr>
+<span align="center">
+  
+  <a href="mailto:duartbreedt@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/duart-breedt)
+  [![Stackoverflow Badge](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/11472340/theduart)
+  [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/TheRealDuart)
+  [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/duartbreedt/)
+  [![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/TheDuart#5542)
+  [![Spotify Badge](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/212tewxcsp6hohie55z72kgiy)
+  
+</span>
 
-## ⚡ Technologies
+<hr>
 
+## ⚡ Technologies & Tools
+<hr>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45" />
@@ -52,8 +62,11 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>   
 </p>
+<hr>
 
 ## My Open-source Contribution
+
+<hr>
 
 - GIMP - [Adding scrolled window to TIFF description field.
 ](https://gitlab.gnome.org/GNOME/gimp/-/merge_requests/745).
@@ -65,6 +78,8 @@
 Ellipses: Removed trailing ellipsis from "Visible Columns…"](https://gitlab.gnome.org/GNOME/nautilus/-/merge_requests/1012).
 - GNOME Nautilus - [
 Adding trailing ellipsis to Empty trash menu](https://gitlab.gnome.org/GNOME/nautilus/-/merge_requests/986).
+
+<hr>
 
 ## Other Links
 
