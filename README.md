@@ -10,6 +10,8 @@
 
 <hr>
 
+![](https://visitor-badge.glitch.me/badge?page_id=GOTAM672)
+
 <h3 align="center">A passionate open source contributer</h3>
 
 
@@ -79,7 +81,7 @@ Adding trailing ellipsis to Empty trash menu](https://gitlab.gnome.org/GNOME/nau
 <a href="https://github.com/GOTAM672">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GOTAM672&theme=noctis_minimus&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GOTAM672&theme=noctis_minimus&layout=compact" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=GOTAM672&theme=noctis_minimus&show_icons=true">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=GOTAM672&theme=noctis_minimus">
 
 </a>
 
@@ -87,7 +89,11 @@ Adding trailing ellipsis to Empty trash menu](https://gitlab.gnome.org/GNOME/nau
 <br>
 
 
-![](https://visitor-badge.glitch.me/badge?page_id=GOTAM672)
+
+
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
 
 <!--
 **GOTAM672/GOTAM672** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
