@@ -12,6 +12,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=GOTAM672)
 
+# Hi, I'm Gotam 👋
+
+<hr>
 <h3 align="center">A passionate open source contributer</h3>
 
 
@@ -19,6 +22,8 @@
 - 🌱 I’m currently learning **Rust Programming Language**
 
 - 📫 How to reach me **gautamy672@gmail.com**
+
+<hr>
 
 <h3 align="left">Connect with me</h3>
 <hr>
