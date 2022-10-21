@@ -25,6 +25,8 @@
 
 <hr>
 
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/contribution-snake/github-contribution-grid-snake.svg" /></div>
+
 <h3 align="left">Connect with me</h3>
 <hr>
 <span align="center">
@@ -119,6 +121,10 @@ Adding trailing ellipsis to Empty trash menu](https://gitlab.gnome.org/GNOME/nau
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
+
+
+
+
 
 <!--
 **GOTAM672/GOTAM672** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
