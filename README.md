@@ -10,34 +10,41 @@
 
 <hr>
 
-![](https://visitor-badge.glitch.me/badge?page_id=GOTAM672)
+### <samp>&gt; Hi there, I'm Gotam Gorabh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
 
-# Hi, I'm Gotam 👋
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gotam-gorabh-470848196/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/GautamY05676484)
 
-<hr>
-<h3 align="center">A passionate open source contributer</h3>
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=GOTAM672)
 
+I am a computer science student at [Indian Institute of Information Technology Kottayam](https://www.iiitkottayam.ac.in/#!/home). I am passionate about open-source and love to contribute to open source projects.
+If you are intrested in open-source contribution and wants to collaborate feel free to contact me.
 
+I am also intrested in DevOps. 
 
-- 🌱 I’m currently learning **Rust Programming Language**
-
-- 📫 How to reach me **gautamy672@gmail.com**
-
-<hr>
-
-<!-- <div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/contribution-snake/github-contribution-grid-snake.svg" /></div> -->
-
-<h3 align="left">Connect with me</h3>
-<hr>
-<span align="center">
   
-  <a href="mailto:gautamy672@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gotam-gorabh-470848196/)
-  [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/GautamY05676484)
-  
-</span>
 
-<hr>
+**Talking about Personal Stuffs:**
+
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently working on GIMP open-source project;
+<!--
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently learning Data Structures and Algorithms on [leetcode](https://leetcode.com/GKassym); -->
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about anything, I am happy to help;
+
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: gautamy672@gmail.com;
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/doc.gif?raw=true" width="21" />&nbsp;&nbsp; [Resume]().
+
+</br>
+
+📊 **This Week I Spent My Time On:**
+<!--START_SECTION:waka-->
+
+```text
+Learning Rust Programming Language adn DevOps.
+```
+
+<!--END_SECTION:waka-->
+
 
 <h3 align="left">⚡ Technologies & Tools</h3>
 
