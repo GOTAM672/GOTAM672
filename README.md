@@ -20,7 +20,7 @@
 I am a computer science student at [Indian Institute of Information Technology Kottayam](https://www.iiitkottayam.ac.in/#!/home). I am passionate about open-source and love to contribute to open source projects.
 If you are intrested in open-source contribution and wants to collaborate feel free to contact me.
 
-I am also intrested in DevOps. 
+I am also intrested in DevOps. And I believe in learning by doing.
 
   
 
