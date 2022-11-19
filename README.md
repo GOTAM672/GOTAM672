@@ -106,7 +106,6 @@ Adding trailing ellipsis to Empty trash menu](https://gitlab.gnome.org/GNOME/nau
 
 
 <a href="https://github.com/GOTAM672">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GOTAM672&theme=dark&background=000000" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GOTAM672&layout=compact&theme=vision-friendly-dark" />
   <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=GOTAM672&theme=dark&background=000000" />
   
