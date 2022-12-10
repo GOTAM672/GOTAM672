@@ -80,6 +80,7 @@ Learning Rust Programming Language adn DevOps.
 ](https://gitlab.gnome.org/GNOME/gimp/-/merge_requests/745).
 - Inkscape - [To Fix overlapping info box in measurement tool](https://gitlab.com/inkscape/inkscape/-/merge_requests/4728).
 - Inkscape - [To enlarge autosave entry field](https://gitlab.com/inkscape/inkscape/-/merge_requests/4730).
+- Inkscape - [Fixed differences in position of Infobox for different display-unit](https://gitlab.com/inkscape/inkscape/-/merge_requests/4944).
 - Inkscape - [Replacing html tags with an open and close parenthesis](https://gitlab.com/inkscape/inkscape/-/merge_requests/4813).
 - GNOME Nautilus - [To use consistent language](https://gitlab.gnome.org/GNOME/nautilus/-/merge_requests/930).
 - GNOME Nautilus - [
