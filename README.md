@@ -105,7 +105,6 @@ Adding trailing ellipsis to Empty trash menu](https://gitlab.gnome.org/GNOME/nau
 
 <hr>
 
-![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=GOTAM672&theme=xcode)
 
 
 <a href="https://github.com/GOTAM672">
