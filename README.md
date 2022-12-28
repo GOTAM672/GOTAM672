@@ -93,6 +93,7 @@ Ellipses: Removed trailing ellipsis from "Visible Columns…"](https://gitlab.gn
 Adding trailing ellipsis to Empty trash menu](https://gitlab.gnome.org/GNOME/nautilus/-/merge_requests/986).
 - GNOME Settings - [Renamed Test Your Settings button to Test Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/merge_requests/1486).
 - GNOME Settings - [Removed account activity window](https://gitlab.gnome.org/GNOME/gnome-control-center/-/merge_requests/1559).
+- GNOME Settings - [Redesigned 'remove user dialog'](https://gitlab.gnome.org/GNOME/gnome-control-center/-/merge_requests/1584).
 
 <hr>
 
