@@ -86,6 +86,7 @@ Learning Rust Programming Language adn DevOps.
 - Inkscape - [Fixed differences in position of Infobox for different display-unit](https://gitlab.com/inkscape/inkscape/-/merge_requests/4944).
 - Inkscape - [Replacing html tags with an open and close parenthesis](https://gitlab.com/inkscape/inkscape/-/merge_requests/4813).
 - Inkscape - [Increased scale_factor to make zoomin faster](https://gitlab.com/inkscape/inkscape/-/merge_requests/4954).
+- Inkscape - [Adding Clone task operation to context menu](https://gitlab.com/inkscape/inkscape/-/merge_requests/5050).
 - GNOME Nautilus - [To use consistent language](https://gitlab.gnome.org/GNOME/nautilus/-/merge_requests/930).
 - GNOME Nautilus - [
 Ellipses: Removed trailing ellipsis from "Visible Columns…"](https://gitlab.gnome.org/GNOME/nautilus/-/merge_requests/1012).
