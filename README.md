@@ -40,7 +40,7 @@ I am also intrested in DevOps. And I believe in learning by doing.
 <!--START_SECTION:waka-->
 
 ```text
-Learning Rust Programming Language adn DevOps.
+Learning Go Programming Language.
 ```
 
 <!--END_SECTION:waka-->
