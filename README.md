@@ -101,6 +101,7 @@ Adding trailing ellipsis to Empty trash menu](https://gitlab.gnome.org/GNOME/nau
 - GNOME Settings - [wi-fi: Updated Forget Connection dialog with AdwMessageDialog](https://gitlab.gnome.org/GNOME/gnome-control-center/-/merge_requests/1699).
 - GNOME Photos - [Adding tooltip-text to UI elements](https://gitlab.gnome.org/GNOME/gnome-photos/-/merge_requests/260).
 - GNOME Epiphany - [Using suitable tooltip-text for bookmark icon](https://gitlab.gnome.org/GNOME/epiphany/-/merge_requests/1271).
+- GNOME Calendar - [used lock icon for read-only calendars](https://gitlab.gnome.org/GNOME/gnome-calendar/-/merge_requests/304)
 
 <hr>
 
