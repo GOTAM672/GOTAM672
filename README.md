@@ -97,7 +97,6 @@ Adding trailing ellipsis to Empty trash menu](https://gitlab.gnome.org/GNOME/nau
 - GNOME Settings - [Removed account activity window](https://gitlab.gnome.org/GNOME/gnome-control-center/-/merge_requests/1559).
 - GNOME Settings - [Redesigned 'remove user dialog'](https://gitlab.gnome.org/GNOME/gnome-control-center/-/merge_requests/1584).
 - GNOME Settings - [updated stop hotspot dialog](https://gitlab.gnome.org/GNOME/gnome-control-center/-/merge_requests/1622).
-- GNOME Settings - [using info-symbolic icon according to mockup](https://gitlab.gnome.org/GNOME/gnome-control-center/-/merge_requests/1698).
 - GNOME Settings - [wi-fi: Updated Forget Connection dialog with AdwMessageDialog](https://gitlab.gnome.org/GNOME/gnome-control-center/-/merge_requests/1699).
 - GNOME Settings - [Fix cancel button issue](https://gitlab.gnome.org/GNOME/gnome-control-center/-/merge_requests/1732)
 - GNOME Photos - [Adding tooltip-text to UI elements](https://gitlab.gnome.org/GNOME/gnome-photos/-/merge_requests/260).
