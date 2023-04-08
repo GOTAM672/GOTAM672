@@ -112,23 +112,6 @@ Adding trailing ellipsis to Empty trash menu](https://gitlab.gnome.org/GNOME/nau
 - My Git Lab Profile [Gau672tam](https://gitlab.com/Gau672tam).
 - My GNOME Git Lab Profile [gautham_x](https://gitlab.gnome.org/gautham_x).
 
-
-
-<h3 align="left">Github Stats</h3>
-
-<hr>
-
-
-
-<a href="https://github.com/GOTAM672">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GOTAM672&layout=compact&theme=vision-friendly-dark" />
-  <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=GOTAM672&theme=dark&background=000000" />
-  
-  
-
-</a>
-
-
 <br>
 
 
