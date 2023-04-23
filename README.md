@@ -103,6 +103,7 @@ Adding trailing ellipsis to Empty trash menu](https://gitlab.gnome.org/GNOME/nau
 - GNOME Photos - [Adding tooltip-text to UI elements](https://gitlab.gnome.org/GNOME/gnome-photos/-/merge_requests/260).
 - GNOME Epiphany - [Using suitable tooltip-text for bookmark icon](https://gitlab.gnome.org/GNOME/epiphany/-/merge_requests/1271).
 - GNOME Calendar - [used lock icon for read-only calendars](https://gitlab.gnome.org/GNOME/gnome-calendar/-/merge_requests/304)
+- Loupe - [used correct verb phrase for print preview window title](https://gitlab.gnome.org/Incubator/loupe/-/merge_requests/198)
 
 <hr>
 
