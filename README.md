@@ -82,6 +82,7 @@ Learning Rust Programming Language.
 
 - GNOME Foundation - [List of Merge Requests](https://gitlab.gnome.org/groups/GNOME/-/merge_requests?scope=all&state=all&author_username=gautham_x).
 - Inkscape - [List of Merge Requests](https://gitlab.com/inkscape/inkscape/-/merge_requests?scope=all&state=all&author_username=Gau672tam).
+- Loupe - [List of Merge Requests](https://gitlab.gnome.org/Incubator/loupe/-/merge_requests?scope=all&state=all&author_username=gautham_x).
 
 <hr>
 
