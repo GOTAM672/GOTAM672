@@ -79,32 +79,8 @@ Learning Rust Programming Language.
 
 <hr>
 
-- GIMP - [Adding scrolled window to TIFF description field.
-](https://gitlab.gnome.org/GNOME/gimp/-/merge_requests/745).
-- Inkscape - [To Fix overlapping info box in measurement tool](https://gitlab.com/inkscape/inkscape/-/merge_requests/4728).
-- Inkscape - [To enlarge autosave entry field](https://gitlab.com/inkscape/inkscape/-/merge_requests/4730).
-- Inkscape - [Fixed differences in position of Infobox for different display-unit](https://gitlab.com/inkscape/inkscape/-/merge_requests/4944).
-- Inkscape - [Replacing html tags with an open and close parenthesis](https://gitlab.com/inkscape/inkscape/-/merge_requests/4813).
-- Inkscape - [Increased scale_factor to make zoomin faster](https://gitlab.com/inkscape/inkscape/-/merge_requests/4954).
-- Inkscape - [Adding Clone task operation to context menu](https://gitlab.com/inkscape/inkscape/-/merge_requests/5050).
-- Inkscape - [Adding color wheel to CMYK tab](https://gitlab.com/inkscape/inkscape/-/merge_requests/5093).
-- GNOME Nautilus - [To use consistent language](https://gitlab.gnome.org/GNOME/nautilus/-/merge_requests/930).
-- GNOME Nautilus - [
-Ellipses: Removed trailing ellipsis from "Visible Columns…"](https://gitlab.gnome.org/GNOME/nautilus/-/merge_requests/1012).
-- GNOME Nautilus - [
-Adding trailing ellipsis to Empty trash menu](https://gitlab.gnome.org/GNOME/nautilus/-/merge_requests/986).
-- GNOME Settings - [Renamed Test Your Settings button to Test Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/merge_requests/1486).
-- GNOME Settings - [Removed account activity window](https://gitlab.gnome.org/GNOME/gnome-control-center/-/merge_requests/1559).
-- GNOME Settings - [Redesigned 'remove user dialog'](https://gitlab.gnome.org/GNOME/gnome-control-center/-/merge_requests/1584).
-- GNOME Settings - [updated stop hotspot dialog](https://gitlab.gnome.org/GNOME/gnome-control-center/-/merge_requests/1622).
-- GNOME Settings - [wi-fi: Updated Forget Connection dialog with AdwMessageDialog](https://gitlab.gnome.org/GNOME/gnome-control-center/-/merge_requests/1699).
-- GNOME Settings - [Fix cancel button issue](https://gitlab.gnome.org/GNOME/gnome-control-center/-/merge_requests/1732)
-- GNOME Settings - [Removed global master switch](https://gitlab.gnome.org/GNOME/gnome-control-center/-/merge_requests/1764)
-- GNOME Settings - [Updated README.md with instruction to build Settings under Building from source section](https://gitlab.gnome.org/GNOME/gnome-control-center/-/merge_requests/1775)
-- GNOME Photos - [Adding tooltip-text to UI elements](https://gitlab.gnome.org/GNOME/gnome-photos/-/merge_requests/260).
-- GNOME Epiphany - [Using suitable tooltip-text for bookmark icon](https://gitlab.gnome.org/GNOME/epiphany/-/merge_requests/1271).
-- GNOME Calendar - [used lock icon for read-only calendars](https://gitlab.gnome.org/GNOME/gnome-calendar/-/merge_requests/304)
-- Loupe - [used correct verb phrase for print preview window title](https://gitlab.gnome.org/Incubator/loupe/-/merge_requests/198)
+
+- GNOME Foundation - [List Of Merge Requestl](https://gitlab.gnome.org/groups/GNOME/-/merge_requests?scope=all&state=all&author_username=gautham_x).
 
 <hr>
 
