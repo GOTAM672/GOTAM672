@@ -80,7 +80,8 @@ Learning Rust Programming Language.
 <hr>
 
 
-- GNOME Foundation - [List Of Merge Requestl](https://gitlab.gnome.org/groups/GNOME/-/merge_requests?scope=all&state=all&author_username=gautham_x).
+- GNOME Foundation - [List of Merge Requestl](https://gitlab.gnome.org/groups/GNOME/-/merge_requests?scope=all&state=all&author_username=gautham_x).
+- Inkscape - [List of Merge Requestl](https://gitlab.com/inkscape/inkscape/-/merge_requests?scope=all&state=all&author_username=Gau672tam).
 
 <hr>
 
