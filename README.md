@@ -86,11 +86,12 @@ Learning Rust Programming Language.
 
 <hr>
 
-<h3 align="left">Other Links</h3>
+<h3 align="left">My Other Profiles</h3>
 
 
 - My GNOME Git Lab Profile [gautham_x](https://gitlab.gnome.org/gautham_x).
 - My Git Lab Profile [Gau672tam](https://gitlab.com/Gau672tam).
+- My LFX Profile [gautamy](https://openprofile.dev/profile/gautamy).
 
 
 
