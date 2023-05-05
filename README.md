@@ -5,7 +5,7 @@
 <hr>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋,+I'm+Gotam;+An+Open+Source+Contributor+☀;Exiceted+to+learn+DevOps">
+  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋,+I'm+Gotam;+An+Open+Source+Contributor+☀;Excited+to+learn+DevOps">
 </p>
 
 <hr>
