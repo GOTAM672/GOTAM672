@@ -46,9 +46,8 @@ Learning Rust Programming Language.
 <!--END_SECTION:waka-->
 
 
-<h3 align="left">⚡ Technologies & Tools</h3>
+## ⚡ Technologies & Tools
 
-<hr>
 <span align="center">
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
@@ -68,27 +67,26 @@ Learning Rust Programming Language.
 </p>
 </span>
 
-<hr>
 
-<h3 align="left">My Open-source Contribution</h3>
-
-<hr>
-
+## My Open-source Contribution
 
 - GNOME Foundation - [List of Merge Requests](https://gitlab.gnome.org/groups/GNOME/-/merge_requests?scope=all&state=all&author_username=gautham_x).
 - Inkscape - [List of Merge Requests](https://gitlab.com/inkscape/inkscape/-/merge_requests?scope=all&state=all&author_username=Gau672tam).
 - Loupe - [List of Merge Requests](https://gitlab.gnome.org/Incubator/loupe/-/merge_requests?scope=all&state=all&author_username=gautham_x).
 
-<hr>
 
-<h3 align="left">My Other Profiles</h3>
+## My Other Profiles
 
 
-- My GNOME Git Lab Profile [gautham_x](https://gitlab.gnome.org/gautham_x).
-- My Git Lab Profile [Gau672tam](https://gitlab.com/Gau672tam).
-- My LFX Profile [gautamy](https://openprofile.dev/profile/gautamy).
-- My Blog Website [FireFly Blogs](https://gotam672.github.io/FireFlyBlogs/)
+- My GNOME Git Lab Profile - [gautham_x](https://gitlab.gnome.org/gautham_x).
+- My Git Lab Profile - [Gau672tam](https://gitlab.com/Gau672tam).
+- My LFX Profile - [gautamy](https://openprofile.dev/profile/gautamy).
+- My Blog Website - [FireFly Blogs](https://gotam672.github.io/FireFlyBlogs/)
 
+
+## 📕 My Latest Blogs
+
+- [Hello Planet GNOME!](https://gotam672.github.io/FireFlyBlogs/hello-planet-gnome/)
 
 
 
