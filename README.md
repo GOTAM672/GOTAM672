@@ -87,6 +87,7 @@ Learning Rust Programming Language.
 ## 📕 My Latest Blogs
 
 - [Hello Planet GNOME!](https://gotam672.github.io/FireFlyBlogs/hello-planet-gnome/)
+- [GSoC 2023 Week 1 Report](https://gotam672.github.io/FireFlyBlogs/gsoc-week1/)
 
 
 
